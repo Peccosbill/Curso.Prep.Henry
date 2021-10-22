@@ -1,0 +1,15 @@
+Conceptos:
+
+    * Variables: es como una caja donde almacenamos cosas(valores), a esta caja le podemos poner nombre, de esa manera nos es posible encontrarla despues y sacar de ella lo que hallamos guardado.
+
+    * Strings: es texto que siempre va entre "comillas", puede ser un "nombre", un "objeto", un "color". Una string es un objeto que podemos guardar dentro de una variable.
+
+    * Funciones (argumentos, return): es un conjunto de acciones para realizar una tarea. 
+
+        - Argumentos: los argumentos son cada una de las acciones que queremos que se realizen para cumplir con la tarea que queremos.
+
+        - Return: con la palabra "return" estamos pidiendo que la tarea se realice y nos devuelva un resultado.
+
+    * Declaración if: con la palabra clave "if" estamos poniendo una condición para que una tarea se realice. Un ejemplo sería: "si estudiaste, podes salir a jugar, si no estudiaste, no podes". 
+
+    * Valores booleanos: es como una pregunta que acepta dos posibles respuestas. En JavaScript sería "true" y "false".
