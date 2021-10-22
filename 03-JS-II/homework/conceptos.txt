@@ -1,0 +1,12 @@
+Conceptos:
+        
+        * Bucle For: es parecido a la instrucción "if", pero un tanto más compleja. Primero, necesita una condición para ejectarse, luego, el bucle se seguira ejecutando hasta que este sea falso. Y por último, este valor irá aumentando.
+
+    Operadores lógicos:
+        &&: signufica "Y". Este operador se utiliza dentro de un "if". En un "if" podemos poner dos o más condiciones separadas entre si por "&&", de esa manera estaremos diciendo que el "if" se ejecute si todas esas condiciones son verdaderas.
+
+        ||: significa "O". También se utiliza dentro de un "if". Al poner varias condiciones dentro, son separados por el operador "||", esto significa que si una condición "O" esta otra condiciónse cumple, devuelve "true". Diferente al operador "&&" donde todas la condiciones se deben cumplir para devolver "true".
+
+        !: significa "No". Al usarse este operador junto a una condición, devolverá lo contrario, es decir, si la condición es verdadera, devolverá falso, si la condición es falsa, devolverá verdadera.
+
+        
