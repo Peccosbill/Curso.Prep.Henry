@@ -1,0 +1,2 @@
+Conceptos:
+        Arrays: es como una Variable, con la diferencia que en una variable uno puede guardar un elemento, en un Array se pueden guardar múltiples elementos. Una Variable es como una caja, un Array es como un gran contenedor.
