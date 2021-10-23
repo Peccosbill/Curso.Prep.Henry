@@ -6,7 +6,7 @@ Conceptos:
 
     * Funciones (argumentos, return): es un conjunto de acciones para realizar una tarea. 
 
-        - Argumentos: los argumentos son cada una de las acciones que queremos que se realizen para cumplir con la tarea que queremos.
+        - Argumentos: los argumentos son cada una de los valores que queremos que se guarden en nuestra función.
 
         - Return: con la palabra "return" estamos pidiendo que la tarea se realice y nos devuelva un resultado.
 
