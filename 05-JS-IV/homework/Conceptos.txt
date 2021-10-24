@@ -1,0 +1,12 @@
+Conceptos:
+        * Objetos: son similares a los Arrays, pueden contener mucha información, pero de una sola cosa. Por ejemplo, podriamos crearr un Objeto con nombre "cubo", dentro de ese objeto agregamos las propiedades que tendrá, su tamaño, su color, su peso, etc.
+
+        * Propiedades: es cada información que introducimos dentro de un objeto. En un objeto llamado persona, sus propiedades serían nombre, edad, altura, peso, hobbie, etc.
+
+        * Métodos: es el nombre que le ponemos a una función dentro de un objeto. 
+
+        * Bucle for...in: dentro de un objeto no hay un indice como en un array, por lo tanto no podemos hacer un bucle. El bucle for...in sirve para recorrer cada propiedad del objeto.
+
+        * Notación de puntos: para saber el valor que tiene una propiedad en un objeto, podemos llamarla al nombrar el objeto y seguido de un punto, nombrar la clave. Ej: cubo.color;. Esto nos devolverá el valor, ej: naranja.
+
+        * Notación por corchetes: para saber el valor que tiene una propiedad en un objeto, podemos llamarla al nombrar el objeto y entre corchetes, como si fuera un array, nombrar la clave, que esta también debe ir entre comillas. Ej: cubo['color'];. Esto nos devolverá el valor, ej: naranja. 
