@@ -1,0 +1,4 @@
+Conceptos:
+        * Callbacks: es cuando llamamos a una funcion dentro de otra como argumento. Es para ahorrarnos escribir la misma funcion una y otra vez.
+
+        
