@@ -1,0 +1,4 @@
+Conceptos:
+        * Prototype: son un mecanismo meduante el cual los objetos heredan caracteristicas entre sí. Por ejemplo, un Array tiene como herencia todas las propiedades o metodos del prototipo Objeto. Todas las funcionalidades de Objeto las hereda un Array.
+
+        * Constructors (de Clases): son plantilla y a partir de ellas vamos a poder crear otros objetos. POr ejemplo, si quisiera crea un objeto llamado "ford", lo crearía a partir de una clase constructora llamada "Auto", de esa manera, no tengo que crear todo de cero, más bien ya parto de una plantilla llamada "Auto".
