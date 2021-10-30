@@ -1,0 +1,147 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+body {
+    height: 100%;
+    max-width: 720px;
+    margin: 40px auto;
+    display: flex;
+}
+
+aside {
+    background-color: rgb(48, 46, 44);
+    color: rgb(229, 226, 226);
+    padding: 20px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.foto img {
+    width: 180px;
+    border-radius: 50%;
+}
+
+.datos h3 {
+    padding: 20px 0 0 0;
+}
+
+.datos p {
+    padding: 20px 0;
+}
+
+.datos ul {
+    padding: 10px 0;
+    list-style-type: none;
+}
+
+.datos ul li {
+    padding: 5px 0 5px 0;
+}
+
+.extra {
+    padding: 5px 0;
+}
+
+.extra h3 {
+    display: flex;
+    padding: 5px 0;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.extra h3 img {
+    width: 40px;
+}
+
+.extra p {
+    padding: 3px 0;
+}
+
+.hobbies {
+    padding: 10px 0;
+}
+
+.hobbies h4 {
+    display: flex;
+    padding: 5px 0;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.hobbies h4, p {
+    padding: 3px;
+}
+
+.hobbies h4 img {
+    width: 20px;
+    margin: 0 5px;
+}
+
+
+article {
+    color: rgb(61, 56, 56);
+    background-color: rgb(240, 235, 235);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.cabecera {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.cabecera h1 {
+    font-size: 2rem;
+    
+    flex-direction: column;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.telefono {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.telefono img {
+    margin: 3px;
+    width: 20px;
+}
+
+.gmail {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.gmail img {
+    margin: 3px;
+    width: 20px;
+}
+
+article h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.estudios p {
+    padding: 10px 0;
+}
+
+.laboral h5 {
+    padding: 10px 0;
+}
+
+.objetivo p {
+    font-size: 18px;
+    padding: 10px 0;
+}
