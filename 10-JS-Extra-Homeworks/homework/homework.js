@@ -95,8 +95,6 @@ function buscoInterseccion(arreglo1, arreglo2){
   const _ = require('lodash');
   let union = _.intersection(arreglo1, arreglo2);
   return union;
-
-
 }
 
 
